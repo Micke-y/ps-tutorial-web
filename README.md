@@ -49,7 +49,7 @@ npx serve .
 ```
 ├── index.html          # 全部页面、样式与脚本（单文件，无外部依赖）
 ├── screenshots/        # README 预览截图
-├── assets/doubao-icon.png  # 署名头像（豆包官方图标）
+├── assets/doubao-laugh.png  # 署名表情
 ├── LICENSE             # MIT 许可证
 └── README.md
 ```
@@ -70,7 +70,7 @@ npx serve .
 
 ## 🤝 致谢
 
-![豆包助手头像](assets/doubao-icon.png) 界面与教程内容由 **豆包** 协助生成 · *Powered by 豆包*
+*Powered by 豆包* <img src="assets/doubao-laugh.png" alt="豆包大笑" width="24" height="24">
 
 ---
 
