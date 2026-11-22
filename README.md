@@ -49,6 +49,7 @@ npx serve .
 ```
 ├── index.html          # 全部页面、样式与脚本（单文件，无外部依赖）
 ├── screenshots/        # README 预览截图
+├── assets/doubao-icon.png  # 署名头像（豆包官方图标）
 ├── LICENSE             # MIT 许可证
 └── README.md
 ```
@@ -66,6 +67,10 @@ npx serve .
 ## 📄 License
 
 本项目基于 [MIT License](LICENSE) 开源，可自由学习、使用与修改。
+
+## 🤝 致谢
+
+![豆包助手头像](assets/doubao-icon.png) 界面与教程内容由 **豆包** 协助生成 · *Powered by 豆包*
 
 ---
 
