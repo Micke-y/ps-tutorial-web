@@ -2,6 +2,8 @@
 
 > 一个仿 Photoshop 交互界面的 PS 功能图文学习网页：点击工具栏、菜单或面板，即可查看对应功能的「什么时候用它 / 怎么用 / 小贴士 / 相关功能」图文教程。
 
+**🌐 在线预览**：https://micke-y.github.io/ps-tutorial-web/
+
 ![欢迎页（桌面端）](screenshots/welcome-desktop.jpg)
 
 ## ✨ 功能特点
