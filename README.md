@@ -49,6 +49,7 @@ npx serve .
 ```
 ├── index.html          # 全部页面、样式与脚本（单文件，无外部依赖）
 ├── screenshots/        # README 预览截图
+├── LICENSE             # MIT 许可证
 └── README.md
 ```
 
